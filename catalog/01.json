@@ -1,0 +1,178 @@
+[
+  {
+    "name": "PII Sanitization Agent",
+    "industry": "Privacy/Compliance",
+    "description": "Redacts PII (emails, phones, national IDs, bank accounts, API keys) from text before it reaches an LLM; fail-closed, multilingual, on-chain proof via TrustBoost",
+    "framework": null,
+    "sourceUrl": "https://github.com/teodorofodocrispin-cmyk/TrustBoost-PII-Sanitizer",
+    "kind": "industry-example"
+  },
+  {
+    "name": "\ud83d\udce7 Email Auto Responder Flow",
+    "industry": "Communication",
+    "description": "Automates email responses based on predefined criteria",
+    "framework": "CrewAI",
+    "sourceUrl": "https://github.com/crewAIInc/crewAI-examples/tree/main/flows/email_auto_responder_flow",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83d\udcdd Meeting Assistant Flow",
+    "industry": "Productivity",
+    "description": "Organizes meetings, scheduling and agenda preparation",
+    "framework": "CrewAI",
+    "sourceUrl": "https://github.com/crewAIInc/crewAI-examples/tree/main/flows/meeting_assistant_flow",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83d\udd04 Self Evaluation Loop Flow",
+    "industry": "Human Resources",
+    "description": "Facilitates self-assessment for performance reviews",
+    "framework": "CrewAI",
+    "sourceUrl": "https://github.com/crewAIInc/crewAI-examples/tree/main/flows/self_evaluation_loop_flow",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83d\udcc8 Lead Score Flow",
+    "industry": "Sales",
+    "description": "Evaluates and scores potential leads to prioritize outreach",
+    "framework": "CrewAI",
+    "sourceUrl": "https://github.com/crewAIInc/crewAI-examples/tree/main/flows/lead-score-flow",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83d\udcca Marketing Strategy Generator",
+    "industry": "Marketing",
+    "description": "Develops marketing strategies by analyzing market trends",
+    "framework": "CrewAI",
+    "sourceUrl": "https://github.com/crewAIInc/crewAI-examples/tree/main/crews/marketing_strategy",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83d\udcdd Job Posting Generator",
+    "industry": "Recruitment",
+    "description": "Creates job postings by analyzing job requirements",
+    "framework": "CrewAI",
+    "sourceUrl": "https://github.com/crewAIInc/crewAI-examples/tree/main/crews/job-posting",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83d\udd04 Recruitment Workflow",
+    "industry": "Recruitment",
+    "description": "Streamlines recruitment by automating hiring tasks",
+    "framework": "CrewAI",
+    "sourceUrl": "https://github.com/crewAIInc/crewAI-examples/tree/main/crews/recruitment",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83d\udd0d Match Profile to Positions",
+    "industry": "Recruitment",
+    "description": "Matches candidate profiles to suitable job positions",
+    "framework": "CrewAI",
+    "sourceUrl": "https://github.com/crewAIInc/crewAI-examples/tree/main/crews/match_profile_to_positions",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83d\udcf8 Instagram Post Generator",
+    "industry": "Social Media",
+    "description": "Generates and schedules Instagram posts automatically",
+    "framework": "CrewAI",
+    "sourceUrl": "https://github.com/crewAIInc/crewAI-examples/tree/main/crews/instagram_post",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83c\udf10 Landing Page Generator",
+    "industry": "Web Development",
+    "description": "Automates creation of landing pages for websites",
+    "framework": "CrewAI",
+    "sourceUrl": "https://github.com/crewAIInc/crewAI-examples/tree/main/crews/landing_page_generator",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83c\udfae Game Builder Crew",
+    "industry": "Game Development",
+    "description": "Assists in game development by automating aspects of creation",
+    "framework": "CrewAI",
+    "sourceUrl": "https://github.com/crewAIInc/crewAI-examples/tree/main/crews/game-builder-crew",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83d\udcb9 Stock Analysis Tool",
+    "industry": "Finance",
+    "description": "Provides tools for analyzing stock market data",
+    "framework": "CrewAI",
+    "sourceUrl": "https://github.com/crewAIInc/crewAI-examples/tree/main/crews/stock_analysis",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83d\uddfa\ufe0f Trip Planner",
+    "industry": "Travel",
+    "description": "Assists in planning trips with itineraries",
+    "framework": "CrewAI",
+    "sourceUrl": "https://github.com/crewAIInc/crewAI-examples/tree/main/crews/trip_planner",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83c\udf81 Surprise Trip Planner",
+    "industry": "Travel",
+    "description": "Plans surprise trips based on user preferences",
+    "framework": "CrewAI",
+    "sourceUrl": "https://github.com/crewAIInc/crewAI-examples/tree/main/crews/surprise_trip",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83d\udcda Write a Book with Flows",
+    "industry": "Creative Writing",
+    "description": "Assists authors with structured writing workflows",
+    "framework": "CrewAI",
+    "sourceUrl": "https://github.com/crewAIInc/crewAI-examples/tree/main/flows/write_a_book_with_flows",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83c\udfac Screenplay Writer",
+    "industry": "Creative Writing",
+    "description": "Aids in writing screenplays with templates and guidance",
+    "framework": "CrewAI",
+    "sourceUrl": "https://github.com/crewAIInc/crewAI-examples/tree/main/crews/screenplay_writer",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\u2705 Markdown Validator",
+    "industry": "Documentation",
+    "description": "Validates Markdown files for proper formatting",
+    "framework": "CrewAI",
+    "sourceUrl": "https://github.com/crewAIInc/crewAI-examples/tree/main/crews/markdown_validator",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\udde0 Meta Quest Knowledge",
+    "industry": "Knowledge Management",
+    "description": "Manages Meta Quest knowledge for information retrieval",
+    "framework": "CrewAI",
+    "sourceUrl": "https://github.com/crewAIInc/crewAI-examples/tree/main/crews/meta_quest_knowledge",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\udd16 NVIDIA Models Integration",
+    "industry": "AI Integration",
+    "description": "Integrates NVIDIA AI models into workflows",
+    "framework": "CrewAI",
+    "sourceUrl": "https://github.com/crewAIInc/crewAI-examples/tree/main/integrations/nvidia_models",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83d\uddc2\ufe0f Prep for a Meeting",
+    "industry": "Productivity",
+    "description": "Prepares meeting materials and sets agendas",
+    "framework": "CrewAI",
+    "sourceUrl": "https://github.com/crewAIInc/crewAI-examples/tree/main/crews/prep-for-a-meeting",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83d\udee0\ufe0f Starter Template",
+    "industry": "Development",
+    "description": "Starter template for new CrewAI projects",
+    "framework": "CrewAI",
+    "sourceUrl": "https://github.com/crewAIInc/crewAI-examples/tree/main/crews/starter_template",
+    "kind": "framework-example"
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "name": "HIA (Health Insights Agent)",
+    "industry": "Healthcare",
+    "description": "Analyses medical reports and provides health insights",
+    "framework": null,
+    "sourceUrl": "https://github.com/harshhh28/hia",
+    "kind": "industry-example"
+  },
+  {
+    "name": "AI Health Assistant",
+    "industry": "Healthcare",
+    "description": "Diagnoses and monitors diseases using patient data",
+    "framework": null,
+    "sourceUrl": "https://github.com/ahmadvh/AI-Agents-for-Medical-Diagnostics",
+    "kind": "industry-example"
+  },
+  {
+    "name": "Automated Trading Bot",
+    "industry": "Finance",
+    "description": "Automates stock trading with real-time market analysis",
+    "framework": null,
+    "sourceUrl": "https://github.com/MingyuJ666/Stockagent",
+    "kind": "industry-example"
+  },
+  {
+    "name": "Agent Wallet SDK",
+    "industry": "Finance",
+    "description": "Non-custodial smart contract wallet SDK for AI agents with enforced spend limits",
+    "framework": null,
+    "sourceUrl": "https://github.com/up2itnow0822/agent-wallet-sdk",
+    "kind": "industry-example"
+  },
+  {
+    "name": "Virtual AI Tutor",
+    "industry": "Education",
+    "description": "Provides personalized education tailored to users",
+    "framework": null,
+    "sourceUrl": "https://github.com/hqanhh/EduGPT",
+    "kind": "industry-example"
+  },
+  {
+    "name": "24/7 AI Chatbot",
+    "industry": "Customer Service",
+    "description": "Handles customer queries around the clock",
+    "framework": null,
+    "sourceUrl": "https://github.com/NirDiamant/GenAI_Agents/blob/main/all_agents_tutorials/customer_support_agent_langgraph.ipynb",
+    "kind": "industry-example"
+  },
+  {
+    "name": "Product Recommendation Agent",
+    "industry": "Retail",
+    "description": "Suggests products based on user preferences and history",
+    "framework": null,
+    "sourceUrl": "https://github.com/microsoft/RecAI",
+    "kind": "industry-example"
+  },
+  {
+    "name": "Self-Driving Delivery Agent",
+    "industry": "Transportation",
+    "description": "Optimizes routes and autonomously delivers packages",
+    "framework": null,
+    "sourceUrl": "https://github.com/sled-group/driVLMe",
+    "kind": "industry-example"
+  },
+  {
+    "name": "Factory Process Monitoring Agent",
+    "industry": "Manufacturing",
+    "description": "Monitors production lines and ensures quality control",
+    "framework": null,
+    "sourceUrl": "https://github.com/yuchenxia/llm4ias",
+    "kind": "industry-example"
+  },
+  {
+    "name": "Property Pricing Agent",
+    "industry": "Real Estate",
+    "description": "Analyzes market trends to determine property prices",
+    "framework": null,
+    "sourceUrl": "https://github.com/AleksNeStu/ai-real-estate-assistant",
+    "kind": "industry-example"
+  },
+  {
+    "name": "Smart Farming Assistant",
+    "industry": "Agriculture",
+    "description": "Provides insights on crop health and yield predictions",
+    "framework": null,
+    "sourceUrl": "https://github.com/mohammed97ashraf/LLM_Agri_Bot",
+    "kind": "industry-example"
+  },
+  {
+    "name": "Energy Demand Forecasting Agent",
+    "industry": "Energy",
+    "description": "Predicts energy usage to optimize grid management",
+    "framework": null,
+    "sourceUrl": "https://github.com/yecchen/MIRAI",
+    "kind": "industry-example"
+  },
+  {
+    "name": "Content Personalization Agent",
+    "industry": "Entertainment",
+    "description": "Recommends personalized media based on preferences",
+    "framework": null,
+    "sourceUrl": "https://github.com/crosleythomas/MirrorGPT",
+    "kind": "industry-example"
+  },
+  {
+    "name": "Legal Document Review Assistant",
+    "industry": "Legal",
+    "description": "Automates document review and highlights key clauses",
+    "framework": null,
+    "sourceUrl": "https://github.com/firica/legalai",
+    "kind": "industry-example"
+  },
+  {
+    "name": "Recruitment Recommendation Agent",
+    "industry": "Human Resources",
+    "description": "Suggests best-fit candidates for job openings",
+    "framework": null,
+    "sourceUrl": "https://github.com/sentient-engineering/jobber",
+    "kind": "industry-example"
+  },
+  {
+    "name": "Virtual Travel Assistant",
+    "industry": "Hospitality",
+    "description": "Plans travel itineraries based on preferences",
+    "framework": null,
+    "sourceUrl": "https://github.com/nirbar1985/ai-travel-agent",
+    "kind": "industry-example"
+  },
+  {
+    "name": "AI Game Companion Agent",
+    "industry": "Gaming",
+    "description": "Enhances player experience with real-time assistance",
+    "framework": null,
+    "sourceUrl": "https://github.com/onjas-buidl/LLM-agent-game",
+    "kind": "industry-example"
+  },
+  {
+    "name": "Real-Time Threat Detection Agent",
+    "industry": "Cybersecurity",
+    "description": "Identifies potential threats and mitigates attacks",
+    "framework": null,
+    "sourceUrl": "https://github.com/NVISOsecurity/cyber-security-llm-agents",
+    "kind": "industry-example"
+  },
+  {
+    "name": "E-commerce Personal Shopper Agent",
+    "industry": "E-commerce",
+    "description": "Helps customers find products they'll love",
+    "framework": null,
+    "sourceUrl": "https://github.com/Hoanganhvu123/ShoppingGPT",
+    "kind": "industry-example"
+  },
+  {
+    "name": "Logistics Optimization Agent",
+    "industry": "Supply Chain",
+    "description": "Plans efficient delivery routes and manages inventory",
+    "framework": null,
+    "sourceUrl": "https://github.com/microsoft/OptiGuide",
+    "kind": "industry-example"
+  },
+  {
+    "name": "Vibe Hacking Agent",
+    "industry": "Cybersecurity",
+    "description": "Autonomous Multi-Agent Based Red Team Testing Service",
+    "framework": null,
+    "sourceUrl": "https://github.com/PurpleAILAB/Decepticon",
+    "kind": "industry-example"
+  },
+  {
+    "name": "Agent Memory Guard",
+    "industry": "Cybersecurity",
+    "description": "Detects and blocks memory poisoning attacks (OWASP ASI06) in AI agent memory stores",
+    "framework": null,
+    "sourceUrl": "https://github.com/OWASP/www-project-agent-memory-guard",
+    "kind": "industry-example"
+  },
+  {
+    "name": "Citadel",
+    "industry": "Software Development",
+    "description": "Orchestrates Claude Code agent fleets with lifecycle hooks, skills, campaign management, and postmortem-driven architecture",
+    "framework": null,
+    "sourceUrl": "https://github.com/SethGammon/Citadel",
+    "kind": "industry-example"
+  },
+  {
+    "name": "MediSuite-AI-Agent",
+    "industry": "Health Insurance",
+    "description": "Automates hospital / insurance claiming workflow",
+    "framework": null,
+    "sourceUrl": "https://github.com/ahmedmansour5/MediSuite-Ai-Agent",
+    "kind": "industry-example"
+  },
+  {
+    "name": "Lina Egyptian Medical Chatbot",
+    "industry": "Healthcare",
+    "description": "Egyptian medical assistant chatbot",
+    "framework": null,
+    "sourceUrl": "https://github.com/dina-khalid/Lina-Egyptian-Medical-Chatbot",
+    "kind": "industry-example"
+  },
+  {
+    "name": "NextRole (AI Career Assistant)",
+    "industry": "Human Resources",
+    "description": "Tailors a resume to a job description and generates interview prep plus a day-of battlecard via a multi-agent system",
+    "framework": null,
+    "sourceUrl": "https://github.com/tam159/next-role",
+    "kind": "industry-example"
+  }
+]

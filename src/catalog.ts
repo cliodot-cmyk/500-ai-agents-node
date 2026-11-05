@@ -1,4 +1,4 @@
-import { readFileSync } from "node:fs";
+import { readdirSync, readFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -11,10 +11,13 @@ export interface UseCase {
   kind: "industry-example" | "framework-example";
 }
 
-const catalogPath = join(dirname(fileURLToPath(import.meta.url)), "../catalog/use-cases.json");
+const catalogDir = join(dirname(fileURLToPath(import.meta.url)), "../catalog");
 
 export function loadCatalog(): UseCase[] {
-  return JSON.parse(readFileSync(catalogPath, "utf8")) as UseCase[];
+  const files = readdirSync(catalogDir)
+    .filter((name) => name.endsWith(".json"))
+    .sort();
+  return files.flatMap((name) => JSON.parse(readFileSync(join(catalogDir, name), "utf8")) as UseCase[]);
 }
 
 export function filterCatalog(flags: Map<string, string>): UseCase[] {

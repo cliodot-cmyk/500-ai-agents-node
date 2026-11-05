@@ -19,7 +19,7 @@ npm run agent -- sql-query --question "Which product has the highest revenue?"
 
 ## Layout
 
-- `catalog/use-cases.json` — industry and framework examples extracted from the original README tables
+- `catalog/` — industry and framework examples extracted from the original README tables
 - `src/cli.ts` — `list`, `catalog`, and agent commands
 - `src/agents` — the 21 runnable agents
 

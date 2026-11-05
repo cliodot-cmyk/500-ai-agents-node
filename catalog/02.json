@@ -1,0 +1,202 @@
+[
+  {
+    "name": "\ud83d\udd17 CrewAI + LangGraph Integration",
+    "industry": "AI Integration",
+    "description": "Integration between CrewAI and LangGraph",
+    "framework": "CrewAI",
+    "sourceUrl": "https://github.com/crewAIInc/crewAI-examples/tree/main/integrations/CrewAI-LangGraph",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\udd16 Automated Task Solving with Code Gen, Execution & Debugging",
+    "industry": "Software Development",
+    "description": "Demonstrates automated task-solving by generating, executing, and debugging code",
+    "framework": "AutoGen",
+    "sourceUrl": null,
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\uddd1\u200d\ud83d\udcbb Code Generation and Q&A with Retrieval Augmented Agents",
+    "industry": "Software Development",
+    "description": "Generates code and answers questions using retrieval-augmented methods",
+    "framework": "AutoGen",
+    "sourceUrl": null,
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\udde0 Code Generation and Q&A with Qdrant-based Retrieval",
+    "industry": "Software Development",
+    "description": "Utilizes Qdrant for enhanced retrieval-augmented agent performance",
+    "framework": "AutoGen",
+    "sourceUrl": null,
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\udd1d Group Chat (3 members, 1 manager)",
+    "industry": "Collaboration",
+    "description": "Demonstrates group task-solving via multi-agent collaboration",
+    "framework": "AutoGen",
+    "sourceUrl": null,
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83d\udcca Data Visualization by Group Chat",
+    "industry": "Data Analysis",
+    "description": "Uses multi-agent collaboration to create data visualizations",
+    "framework": "AutoGen",
+    "sourceUrl": null,
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\udde9 Complex Task Solving by Group Chat (6 members)",
+    "industry": "Collaboration",
+    "description": "Solves complex tasks collaboratively with a larger group",
+    "framework": "AutoGen",
+    "sourceUrl": null,
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\uddd1\u200d\ud83d\udcbb Task Solving with Coding & Planning Agents",
+    "industry": "Planning & Dev",
+    "description": "Combines coding and planning agents for solving tasks",
+    "framework": "AutoGen",
+    "sourceUrl": "https://github.com/microsoft/autogen/blob/0.2/notebook/agentchat_planning.ipynb",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83d\udcd0 Task Solving with Graph Transition Paths",
+    "industry": "Collaboration",
+    "description": "Uses predefined transition paths in a graph for solving tasks",
+    "framework": "AutoGen",
+    "sourceUrl": null,
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\udde0 SocietyOfMindAgent Inner-Monologue",
+    "industry": "Cognitive Sciences",
+    "description": "Simulates inner-monologue for problem-solving using group chats",
+    "framework": "AutoGen",
+    "sourceUrl": null,
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83d\udd27 Group Chat with Custom Speaker Selection",
+    "industry": "Collaboration",
+    "description": "Implements a custom function for speaker selection",
+    "framework": "AutoGen",
+    "sourceUrl": null,
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83d\udd04 Sequential Task-Solving (single initiating agent)",
+    "industry": "Workflow Automation",
+    "description": "Automates sequential task-solving with a single initiating agent",
+    "framework": "AutoGen",
+    "sourceUrl": null,
+    "kind": "framework-example"
+  },
+  {
+    "name": "\u23f3 Async Sequential Task-Solving",
+    "industry": "Workflow Automation",
+    "description": "Handles asynchronous task-solving in a sequence of chats",
+    "framework": "AutoGen",
+    "sourceUrl": null,
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\udd1d Sequential Chats with Different Initiating Agents",
+    "industry": "Workflow Automation",
+    "description": "Sequential task-solving with different agents initiating each chat",
+    "framework": "AutoGen",
+    "sourceUrl": null,
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\udde0 Solving Complex Tasks with Nested Chats",
+    "industry": "Problem Solving",
+    "description": "Uses nested chats to solve hierarchical and complex problems",
+    "framework": "AutoGen",
+    "sourceUrl": null,
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83d\udd04 Sequence of Nested Chats",
+    "industry": "Problem Solving",
+    "description": "Demonstrates sequential task-solving using nested chats",
+    "framework": "AutoGen",
+    "sourceUrl": null,
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83c\udfed OptiGuide Supply Chain with Nested Chats",
+    "industry": "Supply Chain",
+    "description": "Solves supply chain optimization using nested chats",
+    "framework": "AutoGen",
+    "sourceUrl": null,
+    "kind": "framework-example"
+  },
+  {
+    "name": "\u265f\ufe0f Conversational Chess with Nested Chats",
+    "industry": "Gaming",
+    "description": "Uses nested chats for playing conversational chess with tools",
+    "framework": "AutoGen",
+    "sourceUrl": null,
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83c\udf10 Web Search: Solve Tasks Requiring Web Info",
+    "industry": "Information Retrieval",
+    "description": "Searches the web to gather information for completing tasks",
+    "framework": "AutoGen",
+    "sourceUrl": "https://github.com/microsoft/autogen/blob/0.2/notebook/agentchat_web_info.ipynb",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83d\udd27 Use Provided Tools as Functions",
+    "industry": "Tool Integration",
+    "description": "Demonstrates how to use pre-provided tools as callable functions",
+    "framework": "AutoGen",
+    "sourceUrl": null,
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83d\udcda RAG Group Chat",
+    "industry": "Collaboration",
+    "description": "Enables group chat with Retrieval Augmented Generation",
+    "framework": "AutoGen",
+    "sourceUrl": null,
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83d\udd0a Agent Chat with Whisper",
+    "industry": "Audio Processing",
+    "description": "AI agent for transcription and translation using Whisper",
+    "framework": "AutoGen",
+    "sourceUrl": null,
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83d\udcca SQL: Natural Language to SQL Query",
+    "industry": "Database Management",
+    "description": "Converts natural language inputs into SQL queries",
+    "framework": "AutoGen",
+    "sourceUrl": "https://github.com/microsoft/autogen/blob/0.2/notebook/agentchat_sql_spider.ipynb",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83c\udfa8 Multimodal Agent with DALLE and GPT-4V",
+    "industry": "Multimedia AI",
+    "description": "Combines DALLE and GPT-4V for multimodal agent communication",
+    "framework": "AutoGen",
+    "sourceUrl": "https://github.com/microsoft/autogen/blob/0.2/notebook/agentchat_dalle_and_gpt4v.ipynb",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83d\udd8c\ufe0f Multimodal Agent with Llava",
+    "industry": "Image Processing",
+    "description": "Uses Llava for multimodal agent conversations",
+    "framework": "AutoGen",
+    "sourceUrl": "https://github.com/microsoft/autogen/blob/0.2/notebook/agentchat_lmm_llava.ipynb",
+    "kind": "framework-example"
+  }
+]

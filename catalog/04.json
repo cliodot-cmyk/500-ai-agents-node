@@ -1,0 +1,146 @@
+[
+  {
+    "name": "\ud83e\udd16 Chatbot Simulation Evaluation",
+    "industry": "AI / QA",
+    "description": "Simulate user interactions to evaluate chatbot performance",
+    "framework": "LangGraph",
+    "sourceUrl": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/chatbot-simulation-evaluation/agent-simulation-evaluation.ipynb",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\udde0 Information Gathering via Prompting",
+    "industry": "Research",
+    "description": "LangGraph workflow using prompting to gather information",
+    "framework": "LangGraph",
+    "sourceUrl": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/chatbots/information-gather-prompting.ipynb",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\udde0 Code Assistant with LangGraph",
+    "industry": "Software Development",
+    "description": "Resilient code assistant with error checking and iterative refinement",
+    "framework": "LangGraph",
+    "sourceUrl": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/code_assistant/langgraph_code_assistant.ipynb",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\uddd1\u200d\ud83d\udcbc Customer Support Agent",
+    "industry": "Customer Support",
+    "description": "Graph-based agent for handling customer inquiries",
+    "framework": "LangGraph",
+    "sourceUrl": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/customer-support/customer-support.ipynb",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83d\udd01 Extraction with Retries",
+    "industry": "Data Extraction",
+    "description": "Retry mechanisms for robust data extraction",
+    "framework": "LangGraph",
+    "sourceUrl": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/extraction/retries.ipynb",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\udde0 Multi-Agent Workflow (Supervisor)",
+    "industry": "Workflow Orchestration",
+    "description": "Supervisor agent orchestrating multiple specialized agents",
+    "framework": "LangGraph",
+    "sourceUrl": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/multi_agent/agent_supervisor.ipynb",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\udde0 Hierarchical Agent Teams",
+    "industry": "Workflow Orchestration",
+    "description": "Top-level supervisor delegates to specialized sub-agents",
+    "framework": "LangGraph",
+    "sourceUrl": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/multi_agent/hierarchical_agent_teams.ipynb",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\udd1d Multi-Agent Collaboration",
+    "industry": "Workflow Orchestration",
+    "description": "Multiple specialized agents working together on complex tasks",
+    "framework": "LangGraph",
+    "sourceUrl": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/multi_agent/multi-agent-collaboration.ipynb",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\udde0 Plan-and-Execute Agent",
+    "industry": "Workflow Orchestration",
+    "description": "Agent generates multi-step plan then executes sequentially",
+    "framework": "LangGraph",
+    "sourceUrl": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/plan-and-execute/plan-and-execute.ipynb",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\udde0 SQL Agent",
+    "industry": "Database Interaction",
+    "description": "Agent answers questions about SQL databases",
+    "framework": "LangGraph",
+    "sourceUrl": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/sql-agent.ipynb",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\udde0 Reflection Agent",
+    "industry": "Workflow Orchestration",
+    "description": "Agent critiques and revises its own outputs",
+    "framework": "LangGraph",
+    "sourceUrl": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/reflection/reflection.ipynb",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\udde0 Reflexion Agent",
+    "industry": "Workflow Orchestration",
+    "description": "Agent reflects on actions for iterative improvement",
+    "framework": "LangGraph",
+    "sourceUrl": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/reflexion/reflexion.ipynb",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\udde0 Adaptive RAG",
+    "industry": "Information Retrieval",
+    "description": "Dynamic retrieval adjusting based on query complexity",
+    "framework": "LangGraph",
+    "sourceUrl": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/rag/langgraph_adaptive_rag.ipynb",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\udd16 Agentic RAG",
+    "industry": "Intelligent Agents",
+    "description": "Agent determines best retrieval strategy before generating response",
+    "framework": "LangGraph",
+    "sourceUrl": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/rag/langgraph_agentic_rag.ipynb",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\udde0 Corrective RAG (CRAG)",
+    "industry": "Information Retrieval",
+    "description": "Evaluates and refines retrieved documents before generation",
+    "framework": "LangGraph",
+    "sourceUrl": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/rag/langgraph_crag.ipynb",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\udde0 Self-RAG",
+    "industry": "Information Retrieval",
+    "description": "System reflects on responses and retrieves additional info if needed",
+    "framework": "LangGraph",
+    "sourceUrl": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/rag/langgraph_self_rag.ipynb",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\udde0 Adaptive RAG (Local)",
+    "industry": "Information Retrieval",
+    "description": "Adaptive RAG with local models for offline use",
+    "framework": "LangGraph",
+    "sourceUrl": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/rag/langgraph_adaptive_rag_local.ipynb",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\udde0 Self-RAG (Local)",
+    "industry": "Information Retrieval",
+    "description": "Self-RAG using local models and data sources",
+    "framework": "LangGraph",
+    "sourceUrl": "https://github.com/langchain-ai/langgraph/blob/main/docs/docs/tutorials/rag/langgraph_self_rag_local.ipynb",
+    "kind": "framework-example"
+  }
+]

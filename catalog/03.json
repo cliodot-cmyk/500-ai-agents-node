@@ -1,0 +1,170 @@
+[
+  {
+    "name": "\ud83d\uddbc\ufe0f Multimodal Agent with GPT-4V",
+    "industry": "Multimedia AI",
+    "description": "Leverages GPT-4V for visual and conversational interactions",
+    "framework": "AutoGen",
+    "sourceUrl": "https://github.com/microsoft/autogen/blob/0.2/notebook/agentchat_lmm_gpt-4v.ipynb",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83d\udcca AgentEval: Multi-Agent Assessment System",
+    "industry": "Performance Evaluation",
+    "description": "Evaluating LLM-based application utility",
+    "framework": "AutoGen",
+    "sourceUrl": "https://github.com/microsoft/autogen/blob/0.2/notebook/agenteval_cq_math.ipynb",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83d\udcca Track LLM Calls and Errors using AgentOps",
+    "industry": "Monitoring & Analytics",
+    "description": "Monitors LLM interactions, tool usage, and errors",
+    "framework": "AutoGen",
+    "sourceUrl": "https://github.com/microsoft/autogen/blob/0.2/notebook/agentchat_agentops.ipynb",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83c\udfd7\ufe0f Auto Build Multi-agent System with AgentBuilder",
+    "industry": "AI Development",
+    "description": "Automatically builds multi-agent systems",
+    "framework": "AutoGen",
+    "sourceUrl": "https://github.com/microsoft/autogen/blob/0.2/notebook/autobuild_basic.ipynb",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\udd16 Support Agent",
+    "industry": "AI Framework Support",
+    "description": "Real-time answers, explanations, and code examples for Agno framework",
+    "framework": "Agno",
+    "sourceUrl": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/agno_support_agent.py",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83c\udfa5 YouTube Agent",
+    "industry": "Media & Content",
+    "description": "Analyzes YouTube videos: summaries, timestamps, themes",
+    "framework": "Agno",
+    "sourceUrl": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/youtube_agent.py",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83d\udcca Finance Agent (Thinking)",
+    "industry": "Finance",
+    "description": "Real-time stock insights, analyst recommendations, financial deep-dives",
+    "framework": "Agno",
+    "sourceUrl": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/thinking_finance_agent.py",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83d\udcda Study Partner",
+    "industry": "Education",
+    "description": "Finds resources, answers questions, creates study plans",
+    "framework": "Agno",
+    "sourceUrl": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/study_partner.py",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83d\udecd\ufe0f Shopping Partner Agent",
+    "industry": "E-commerce",
+    "description": "Product recommender based on preferences from Amazon, Flipkart",
+    "framework": "Agno",
+    "sourceUrl": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/shopping_partner.py",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83c\udf93 Research Scholar Agent",
+    "industry": "Education / Research",
+    "description": "Advanced academic searches, publication analysis, structured reports",
+    "framework": "Agno",
+    "sourceUrl": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/research_agent_exa.py",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\udde0 Research Agent",
+    "industry": "Media & Journalism",
+    "description": "Deep investigations, NYT-style reports",
+    "framework": "Agno",
+    "sourceUrl": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/research_agent.py",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83c\udf73 Recipe Creator",
+    "industry": "Food & Culinary",
+    "description": "Personalized recipes based on ingredients and preferences",
+    "framework": "Agno",
+    "sourceUrl": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/recipe_creator.py",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\udde0 Financial Reasoning Agent",
+    "industry": "Finance",
+    "description": "Claude 3.5 Sonnet-based stock analysis with Yahoo Finance data",
+    "framework": "Agno",
+    "sourceUrl": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/reasoning_finance_agent.py",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\udd16 Readme Generator Agent",
+    "industry": "Software Dev",
+    "description": "Generates high-quality READMEs for GitHub repos",
+    "framework": "Agno",
+    "sourceUrl": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/readme_generator.py",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83c\udfac Movie Recommendation Agent",
+    "industry": "Entertainment",
+    "description": "Personalized movie recommendations using Exa and GPT-4o",
+    "framework": "Agno",
+    "sourceUrl": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/movie_recommedation.py",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83d\udd0d Media Trend Analysis Agent",
+    "industry": "Media & News",
+    "description": "Analyzes emerging trends and influencers from digital platforms",
+    "framework": "Agno",
+    "sourceUrl": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/media_trend_analysis_agent.py",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\u2696\ufe0f Legal Document Analysis Agent",
+    "industry": "Legal Tech",
+    "description": "Analyzes legal PDFs and provides insights using vector embeddings",
+    "framework": "Agno",
+    "sourceUrl": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/legal_consultant.py",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\udd14 DeepKnowledge",
+    "industry": "Research",
+    "description": "Iterative search through knowledge base with deep reasoning",
+    "framework": "Agno",
+    "sourceUrl": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/deep_knowledge.py",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83d\udcda Book Recommendation Agent",
+    "industry": "Publishing & Media",
+    "description": "Personalized book suggestions using literary data and reader preferences",
+    "framework": "Agno",
+    "sourceUrl": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/book_recommendation.py",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83c\udfe0 MCP Airbnb Agent",
+    "industry": "Hospitality",
+    "description": "Search Airbnb listings with MCP and Llama 4",
+    "framework": "Agno",
+    "sourceUrl": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/airbnb_mcp.py",
+    "kind": "framework-example"
+  },
+  {
+    "name": "\ud83e\udd16 Agno Assist Agent",
+    "industry": "AI Framework",
+    "description": "GPT-4o agent for Agno framework Q&A with hybrid search",
+    "framework": "Agno",
+    "sourceUrl": "https://github.com/agno-agi/agno/blob/main/cookbook/examples/agents/agno_assist.py",
+    "kind": "framework-example"
+  }
+]
