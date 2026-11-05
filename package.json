@@ -1,0 +1,23 @@
+{
+  "name": "500-ai-agents-node",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Node.js and TypeScript port of the 500 AI Agents Projects catalog and runnable agents.",
+  "scripts": {
+    "agent": "tsx src/cli.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "openai": "^4.77.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
